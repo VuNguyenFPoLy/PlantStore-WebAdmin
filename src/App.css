@@ -1,0 +1,6 @@
+.background-image {
+  background-image: url('https://t4.ftcdn.net/jpg/03/69/11/25/360_F_369112549_7TaHV9HV6QEWIauBBJGaW7DnLd7nibkf.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 100vh; /* Đảm bảo nền chiếm toàn bộ màn hình */
+}
